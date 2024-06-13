@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+out/
+logs/
+.idea/
+*.iml
+exports/
+allure-report/
